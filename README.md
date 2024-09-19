@@ -34,96 +34,74 @@
 
 小程序实机截图：
 
-![image-20240919142905061](.\README.assets\image-20240919142905061.png)
 ![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/image-20240919142905061.png)
 
-![image-20240919142933795](I:\桌面\README.assets\image-20240919142933795.png)
 ![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/image-20240919142933795.png)
 
-![image-20240919142952646](I:\桌面\README.assets\image-20240919142952646.png)
 ![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/image-20240919142952646.png)
 
-![image-20240919143010214](I:\桌面\README.assets\image-20240919143010214.png)
 ![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/image-20240919143010214.png)
 
 首页下滑展示预约项目分类，设计实现了**懒加载**对每个分类进行独立的下滑加载更多项目，提高页面的加载速度和性能。
 
-![image-20240919143522772](I:\桌面\README.assets\image-20240919143522772.png)
 ![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/image-20240919143522772.png)
 
-![image-20240919143610115](I:\桌面\README.assets\image-20240919143610115.png)
 ![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/image-20240919143610115.png)
 
 接入微信小程序官方客服API，点击直接连接微信客服对话，可以发送图片等消息。
 
-![image-20240919154635204](I:\桌面\README.assets\image-20240919154635204.png)
 ![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/image-20240919154635204.png)
 
 选择预约时间段，选择美容师提交订单进行预约
 
-![image-20240919143859421](I:\桌面\README.assets\image-20240919143859421.png)
 ![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/image-20240919143859421.png)
 
 支付预约订单
 
-![image-20240919143924526](I:\桌面\README.assets\image-20240919143924526.png)
 ![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/image-20240919143924526.png)
 
-![image-20240919143933145](I:\桌面\README.assets\image-20240919143924526.png)
 ![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/image-20240919143924526.png)
 
 系统生成二维码券码，用于商家核验。
 
-![image-20240919154811100](I:\桌面\README.assets\image-20240919154811100.png)
 ![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/image-20240919154811100.png)
 
 商品购买
 
-![image-20240919154837377](I:\桌面\README.assets\image-20240919154837377.png)
 ![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/image-20240919154837377.png)
 
 支持搜索商品，保存搜索历史，且历史可以单独和全部删除
 
-![image-20240919154925076](I:\桌面\README.assets\image-20240919154925076.png)
 ![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/image-20240919154925076.png)
 
 商品详情页
 
-![image-20240919155036199](I:\桌面\README.assets\image-20240919155036199.png)
 ![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/image-20240919155036199.png)
 
 购物车页面
 
-![image-20240919161850452](I:\桌面\README.assets\image-20240919161850452.png)
 ![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/image-20240919161850452.png)
 
 提交订单页面
 
-![image-20240919161908217](I:\桌面\README.assets\image-20240919161908217.png)
 ![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/image-20240919161908217.png)
 
 支付，使用Redis缓存订单支付剩余时间
 
-![image-20240919161946020](I:\桌面\README.assets\image-20240919161946020.png)
 ![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/image-20240919161946020.png)
 
 支付成功之后动态推荐其他商品，这里是根据商品价格推荐的
 
-![image-20240919162055002](I:\桌面\README.assets\image-20240919162055002.png)
 ![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/image-20240919162055002.png)
 
-![image-20240919162110628](I:\桌面\README.assets\image-20240919162110628.png)
 ![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/image-20240919162110628.png)
 
-![image-20240919162232829](I:\桌面\README.assets\image-20240919162232829.png)
 ![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/image-20240919162232829.png)
 
 快递物流信息查看
 
-![image-20240919163200395](I:\桌面\README.assets\image-20240919163200395.png)
 ![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/image-20240919163200395.png)
 
-![image-20240919163222035](I:\桌面\README.assets\image-20240919163222035.png)
 ![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/image-20240919163222035.png)
 
 视频浏览-swiper替换算法：
@@ -160,17 +138,14 @@ swiper替换算法：
 
 阻止swiper在首次加载的时候向上滑，导致滑动到下标为3的swiepr-item上。
 
-![image-20240919163324816](I:\桌面\README.assets\image-20240919163324816.png)
 ![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/image-20240919163324816.png)
 
 会员充值
 
-![image-20240919163339334](I:\桌面\README.assets\image-20240919163339334.png)
 ![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/image-20240919163339334.png)
 
 签到积分
 
-![image-20240919163412548](I:\桌面\README.assets\image-20240919163412548.png)
 ![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/image-20240919163412548.png)
 
 一键登录
@@ -179,7 +154,6 @@ swiper替换算法：
 
 本系统研究的是基于微信小程序的美业智慧平台，美业客户的微信小程序实现服务预约、商品销售、健康讲座和会员管理的功能，采用Spring Boot框架构建后台，用IDEA作为开发工具，使用腾讯云服务器，Restful风格编写后台接口，在服务器上部署，微信小程序调用后台API接口进行数据交互。美业商家的CMS后台管理系统，采用Vue、Element UI、RuoYi和Spring Boot开发。系统架构如图所示。
 
-![img](I:\桌面\README.assets\clip_image010.gif)
 ![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/clip_image010.gif)
 
 
@@ -392,7 +366,6 @@ swiper替换算法：
 
 其具体流程图如图1所示。
 
-![img](I:\桌面\README.assets\clip_image002.gif)
 ![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/clip_image002.gif)
 
 
@@ -408,7 +381,6 @@ swiper替换算法：
 
  
 
-![img](I:\桌面\README.assets\clip_image004.jpg)
 ![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/clip_image004.jpg)
 
 
@@ -440,7 +412,6 @@ CMS后台内容管理系统开发：HTML、CSS、JavaScript、Vue框架、RuoYi�
 
 系统角色主要划分为美业商家和美业客户，美业商家使用PC端的Web网页CMS内容管理系统，美业客户使用微信小程序。系统主要包括美容预约、会员管理、商品销售、健康讲座四大功能模块。系统用例图如图3所示。
 
-![img](I:\桌面\README.assets\clip_image006.jpg)
 ![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/clip_image006.jpg)
 
 
@@ -456,7 +427,6 @@ CMS后台内容管理系统开发：HTML、CSS、JavaScript、Vue框架、RuoYi�
 
 系统功能模块如图4所示。
 
-![img](I:\桌面\README.assets\clip_image008.gif)
 ![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/clip_image008.gif)
 
 
@@ -471,7 +441,6 @@ CMS后台内容管理系统开发：HTML、CSS、JavaScript、Vue框架、RuoYi�
 
 本系统研究的是基于微信小程序的美业智慧平台，美业客户的微信小程序实现服务预约、商品销售、健康讲座和会员管理的功能，采用Spring Boot框架构建后台，用IDEA作为开发工具，使用腾讯云服务器，Restful风格编写后台接口，在服务器上部署，微信小程序调用后台API接口进行数据交互。美业商家的CMS后台管理系统，采用Vue、Element UI、RuoYi和Spring Boot开发。系统架构图如图5所示。
 
-![img](I:\桌面\README.assets\clip_image010.gif)
 ![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/clip_image010.gif)
 
 
@@ -485,19 +454,16 @@ CMS后台内容管理系统开发：HTML、CSS、JavaScript、Vue框架、RuoYi�
 
 数据库E-R图如图6-图8所示。
 
-![img](I:\桌面\README.assets\clip_image012.gif)
 ![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/clip_image012.gif)
 
 
 图 6 商品模块E-R图
 
-![img](I:\桌面\README.assets\clip_image014.gif)
 ![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/clip_image014.gif)
 
 
 图7 服务项目模块E-R图
 
-![img](I:\桌面\README.assets\clip_image016.gif)
 ![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/clip_image016.gif)
 
 
@@ -519,7 +485,6 @@ CMS后台内容管理系统开发：HTML、CSS、JavaScript、Vue框架、RuoYi�
 
  
 
-![img](I:\桌面\README.assets\clip_image018.jpg)
 ![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/clip_image018.jpg)
 
 
@@ -541,7 +506,6 @@ CMS后台内容管理系统开发：HTML、CSS、JavaScript、Vue框架、RuoYi�
 
 （12）客户信息表user，以id为主键，包含微信登录openId、姓名、性别、年龄、用户类型、地址、头像、电话、账号、密码、会员卡id、余额、积分、优惠券id、创建时间和最后登录时间。
 
-![img](I:\桌面\README.assets\clip_image020.jpg)
 ![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/clip_image020.jpg)
 
 
@@ -573,7 +537,6 @@ CMS后台内容管理系统开发：HTML、CSS、JavaScript、Vue框架、RuoYi�
 
  
 
-![img](I:\桌面\README.assets\clip_image022.gif)
 ![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/clip_image022.gif)
 
 
@@ -585,7 +548,6 @@ CMS后台内容管理系统开发：HTML、CSS、JavaScript、Vue框架、RuoYi�
 
 预约服务时序图如图12所示。
 
-![img](I:\桌面\README.assets\clip_image024.gif)
 ![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/clip_image024.gif)
 
 
@@ -593,7 +555,6 @@ CMS后台内容管理系统开发：HTML、CSS、JavaScript、Vue框架、RuoYi�
 
 （3）购买商品核心功能设计，美业客户通过点击首页导航按钮，进入到商品分类检索页面，可以按类别检索某类商品，也可以通过顶部搜索栏进行关键字查询商品，搜索栏设有搜索历史，可通过搜索点击搜索历史进行搜索。在检索到商品后，客户点击立即购买按钮，进入商品详情页面，根据传过来的商品id，请求Spring Boot后端接口，获取该id的商品信息，并显示[9]。客户可选择加入购物车或立即购买，点击立即购买后，选择商品属性和购买数量后，跳转到订单支付页面，进行订单支付，时序图如图13所示。
 
-![img](I:\桌面\README.assets\clip_image026.gif)
 ![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/clip_image026.gif)
 
 
@@ -603,7 +564,6 @@ CMS后台内容管理系统开发：HTML、CSS、JavaScript、Vue框架、RuoYi�
 
 本系统采用Spring Boot框架和MyBatis-Plus进行后端接口开发，MyBatis-Plus提供强大的功能封装接口和类，让数据增删改查接口编写变得非常便捷，只需要继承或实现MyBatis-Plus提供的接口和类即可[10]。采用Lombok提供的@Data注解使实体类开发省去繁琐的get和set方法编写。本文以服务项目为例，简要概述后端接口类继承模式，其类图如图14所示。
 
-![img](I:\桌面\README.assets\clip_image028.gif)
 ![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/clip_image028.gif)
 
 
@@ -611,7 +571,6 @@ CMS后台内容管理系统开发：HTML、CSS、JavaScript、Vue框架、RuoYi�
 
 购买商品订单状态会根据客户和商家的不同操作，进行相应的变化，状态图如图15所示。
 
-![img](I:\桌面\README.assets\clip_image030.gif)
 ![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/clip_image030.gif)
 
 
@@ -646,12 +605,35 @@ CMS后台内容管理系统开发：HTML、CSS、JavaScript、Vue框架、RuoYi�
 
 首页界面如图18所示。
 
-![img](I:\桌面\README.assets\clip_image036.gif)
 ![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/clip_image036.gif)
 
 图18 首页界面图
 
-![文本框: @GetMapping("/getservicelistlistbycate") public Result<Object> getServiceListListByCate(){     //创建分页对象     Page<ServiceItem> page = new Page<>(1, 10);     //获取服务项目分类  列表     List<ServiceItemCate> tabsList=serviceItemCateService.list();     List<Map<String,Object>> serviceListList =new ArrayList<>();     for(ServiceItemCate cate : tabsList){          //创建查询条件对象         QueryWrapper<ServiceItem> wrapper = new QueryWrapper<>();         if (!"".equals(cate.getId())) wrapper.lambda().eq(ServiceItem::getCateId, cate.getId());         Page<ServiceItem> ServicesPage = serviceItemService.page(page, wrapper);         Map<String,Object> map=new HashMap<>();          map.put("records",ServicesPage.getRecords());         map.put("total",ServicesPage.getTotal());         map.put("pageCurrent",1);          map.put("pageSize",10);         serviceListList.add(map);     }     return new Result<>(HttpStatus.OK.value(),"success",serviceListList); }  ](I:\桌面\README.assets\clip_image037.gif)
+```java 
+@GetMapping("/getservicelistlistbycate")
+public Result<Object> getServiceListListByCate(){
+    //创建分页对象
+    Page<ServiceItem> page = new Page<>(1, 10);
+    //获取服务项目分类  列表
+    List<ServiceItemCate> tabsList=serviceItemCateService.list();
+    List<Map<String,Object>> serviceListList =new ArrayList<>();
+    for(ServiceItemCate cate : tabsList){ 
+        //创建查询条件对象
+        QueryWrapper<ServiceItem> wrapper = new QueryWrapper<>();
+        if (!"".equals(cate.getId())) wrapper.lambda().eq(ServiceItem::getCateId, cate.getId());
+        Page<ServiceItem> ServicesPage = serviceItemService.page(page, wrapper);
+        Map<String,Object> map=new HashMap<>(); 
+        map.put("records",ServicesPage.getRecords());
+        map.put("total",ServicesPage.getTotal());
+        map.put("pageCurrent",1); 
+        map.put("pageSize",10);
+        serviceListList.add(map);
+    }
+    return new Result<>(HttpStatus.OK.value(),"success",serviceListList);
+}
+```
+
+
 
 服务项目分类，使用uView组件库的u-tabs组件和swiper组件，组合使用，达到滑动切换类别的目标，在home页面的onLoad事件中，获取到每个分类的前10条分页数据并显示。美业客户滑动浏览不同服务项目分类时，会显示该分类中的数据。当客户上划到底部时，触发上拉加载事件，根据当前分类id和分页配置，请求Spring Boot后台，获取该分类的下一页数据并用数组展开表达式添加到总数据中。
 
@@ -661,14 +643,37 @@ CMS后台内容管理系统开发：HTML、CSS、JavaScript、Vue框架、RuoYi�
 
 预约功能模块，微信小程序界面如图19所示。
 
-![img](I:\桌面\README.assets\clip_image039.gif)
 ![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/clip_image039.gif)
 
 图19 预约实现界面
 
- 
+```java
+@PutMapping("/updateServiceOrdeStatusBuySuccessByOrderId")
+@Transactional//事务
+public Result<Object> updateServiceOrdeStatusBuySuccessByOrderId(@RequestBody ServiceOrderOrder serviceOrderOrder){ 
+    ServiceOrderOrder serviceOrderOrder1= 	
+(ServiceOrderOrder) redisTemplate.opsForValue().get(serviceOrderOrder.getOrderId());
+    serviceOrderOrder1.setRealPay(serviceOrderOrder.getRealPay())
+            .setPayType(serviceOrderOrder.getPayType())
+            .setPayTime(serviceOrderOrder.getPayTime())
+            .setOrderStatus(serviceOrderOrder.getOrderStatus())
+            .setEndDate(serviceOrderOrder.getEndDate())
+            .setQrcodeNumber(RandomIdUtil.generateUniqueKey());//生成二维码号码
+    //更新订单信息
+    orderOrderService.update(serviceOrderOrder1,new UpdateWrapper<ServiceOrderOrder>().lambda().eq(ServiceOrderOrder::getOrderId,serviceOrderOrder1.getOrderId()));
+    //获取到美容师——时间 信息
+    BeauticianTime beauticianTime=beauticianTimeService.getOne(
+            new QueryWrapper<BeauticianTime>().lambda().eq(BeauticianTime::getBeauticianId,serviceOrderOrder1.getBeauticianId())
+                    .eq(BeauticianTime::getBeauticianTime,serviceOrderOrder1.getServiceOrderDatetime()));
+    int number=beauticianTime.getNumber();
+    //让该美容师的该时间的可预约数-1
+    beauticianTime.setNumber(number-1);
+    beauticianTimeService.updateById(beauticianTime);
+    return new Result<>(HttpStatus.OK.value(),"success","");
+}
 
-![文本框: @PutMapping("/updateServiceOrdeStatusBuySuccessByOrderId") @Transactional//事务 public Result<Object> updateServiceOrdeStatusBuySuccessByOrderId(@RequestBody ServiceOrderOrder serviceOrderOrder){      ServiceOrderOrder serviceOrderOrder1= 	 (ServiceOrderOrder) redisTemplate.opsForValue().get(serviceOrderOrder.getOrderId());     serviceOrderOrder1.setRealPay(serviceOrderOrder.getRealPay())             .setPayType(serviceOrderOrder.getPayType())             .setPayTime(serviceOrderOrder.getPayTime())             .setOrderStatus(serviceOrderOrder.getOrderStatus())             .setEndDate(serviceOrderOrder.getEndDate())             .setQrcodeNumber(RandomIdUtil.generateUniqueKey());//生成二维码号码     //更新订单信息     orderOrderService.update(serviceOrderOrder1,new UpdateWrapper<ServiceOrderOrder>().lambda().eq(ServiceOrderOrder::getOrderId,serviceOrderOrder1.getOrderId()));     //获取到美容师——时间 信息     BeauticianTime beauticianTime=beauticianTimeService.getOne(             new QueryWrapper<BeauticianTime>().lambda().eq(BeauticianTime::getBeauticianId,serviceOrderOrder1.getBeauticianId())                     .eq(BeauticianTime::getBeauticianTime,serviceOrderOrder1.getServiceOrderDatetime()));     int number=beauticianTime.getNumber();     //让该美容师的该时间的可预约数-1     beauticianTime.setNumber(number-1);     beauticianTimeService.updateById(beauticianTime);     return new Result<>(HttpStatus.OK.value(),"success",""); }  ](I:\桌面\README.assets\clip_image040.gif)
+```
+
 
 ### 4.1.3 视频讲座页面功能模块实现
 
@@ -716,11 +721,57 @@ swiper替换算法：
 
 Spring Boot后端接口核心代码：
 
-![文本框: @PostMapping("/getVideoList") public Result<Object> getVideoList(@RequestBody String info){     return new Result<>(HttpStatus.OK.value(),"success",videoService.list()); }  ](I:\桌面\README.assets\clip_image045.gif)
+```java
+@PostMapping("/getVideoList")
+public Result<Object> getVideoList(@RequestBody String info){
+    return new Result<>(HttpStatus.OK.value(),"success",videoService.list());
+}
+
+```
+
 
 前端JavaScript核心预加载代码：
 
-![文本框: get(){ // 引入后端请求数据 	uni.request({     		url: 'https://www.shichengtai.xyz:8088/sct/api/meiye/video/getVideoList',       	method: 'POST',       	data:{         		info: 'get_video'       	},       	success: (res) => {         		var msg = res.data.data         		// 把视频添加到视频列表         		for (let i = 0; i < msg.length; i++) {           		this.dataList.push(msg[i])         		}         		// 播放当前视频         		setTimeout(()=>{           		this.dataList[this.k].isplay = false           		this.dataList[this.k].state = 'play'           	uni.createVideoContext(this.dataList[this.k].videoId,this).play()           		this.dataList[this.k].playIng = true         		},200)         		// start - 预加载开始         		var p = this.k         		++p         		setTimeout(()=>{           		uni.createVideoContext(this.dataList[p].videoId,this).play()        		 },20)         		clearTimeout(this.timeout)         		this.timeout = setTimeout(()=>{           		uni.createVideoContext(this.dataList[p].videoId,this).seek(0)           		uni.createVideoContext(this.dataList[p].videoId,this).pause()           		console.log('预加载第' + (p + 1) + '个视频：' + this.dataList[p].videoId)         		},1500)         		// end - 预加载结束       	}     }) }, ](I:\桌面\README.assets\clip_image046.gif)
+```java
+get(){
+// 引入后端请求数据
+	uni.request({
+    		url: 'https://www.shichengtai.xyz:8088/sct/api/meiye/video/getVideoList',
+      	method: 'POST',
+      	data:{
+        		info: 'get_video'
+      	},
+      	success: (res) => {
+        		var msg = res.data.data
+        		// 把视频添加到视频列表
+        		for (let i = 0; i < msg.length; i++) {
+          		this.dataList.push(msg[i])
+        		}
+        		// 播放当前视频
+        		setTimeout(()=>{
+          		this.dataList[this.k].isplay = false
+          		this.dataList[this.k].state = 'play'
+          	uni.createVideoContext(this.dataList[this.k].videoId,this).play()
+          		this.dataList[this.k].playIng = true
+        		},200)
+        		// start - 预加载开始
+        		var p = this.k
+        		++p
+        		setTimeout(()=>{
+          		uni.createVideoContext(this.dataList[p].videoId,this).play()
+       		 },20)
+        		clearTimeout(this.timeout)
+        		this.timeout = setTimeout(()=>{
+          		uni.createVideoContext(this.dataList[p].videoId,this).seek(0)
+          		uni.createVideoContext(this.dataList[p].videoId,this).pause()
+          		console.log('预加载第' + (p + 1) + '个视频：' + this.dataList[p].videoId)
+        		},1500)
+        		// end - 预加载结束
+      	}
+    })
+},
+
+```
 
  
 
@@ -735,20 +786,52 @@ Spring Boot后端接口核心代码：
 
 后端核心代码：
 
-![文本框: @PostMapping("/saveGoodsOrderToRedis") public Result<Object> saveGoodsOrderToRedis(@RequestBody GoodsOrderDto goodsOrderDto){          redisTemplate.opsForValue().set(goodsOrderDto.getRedisKey(), goodsOrderDto, 5L, TimeUnit.MINUTES);         return new Result<>(HttpStatus.OK.value(),"success",""); }  @PutMapping("/updateGoodsOrdeStatusBuySuccessByOrderId") @Transactional//事务 public Result<Object> updateGoodsOrdeStatusBuySuccessByOrderId(@RequestBody GoodsOrder goodsOrder){      //修改订单信息     goodsOrderService.update(goodsOrder,new QueryWrapper<GoodsOrder>().lambda().eq(GoodsOrder::getGoodsOrderId,goodsOrder.getGoodsOrderId()));     return new Result<>(HttpStatus.OK.value(),"success",""); } ](I:\桌面\README.assets\clip_image049.gif)
+
+
+```java
+@PostMapping("/saveGoodsOrderToRedis")
+public Result<Object> saveGoodsOrderToRedis(@RequestBody GoodsOrderDto goodsOrderDto){ 
+        redisTemplate.opsForValue().set(goodsOrderDto.getRedisKey(), goodsOrderDto, 5L, TimeUnit.MINUTES);
+        return new Result<>(HttpStatus.OK.value(),"success","");
+}
+
+@PutMapping("/updateGoodsOrdeStatusBuySuccessByOrderId")
+@Transactional//事务
+public Result<Object> updateGoodsOrdeStatusBuySuccessByOrderId(@RequestBody GoodsOrder goodsOrder){ 
+    //修改订单信息
+    goodsOrderService.update(goodsOrder,new QueryWrapper<GoodsOrder>().lambda().eq(GoodsOrder::getGoodsOrderId,goodsOrder.getGoodsOrderId()));
+    return new Result<>(HttpStatus.OK.value(),"success","");
+}
+
+```
 
 Spring Boot有事务注解@Transactional，利用该注解，可以实现订单操作的原子性，对多表的新增或修改实现同时成功或同时失败。
 
 ### 4.1.5 会员卡功能模块实现
 
 会员卡功能前端核心界面如图23所示。
-
-![img](I:\桌面\README.assets\clip_image051.jpg)
 ![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/clip_image051.jpg)
 
 图23 会员核心界面
 
-![文本框: @PostMapping("/updateSignInToRedis") @Transactional//事务 public Result<Object> updateSignInToRedis(@RequestParam(value = "signInKey",required = false) String signInKey, @RequestParam(value = "signInVo",required = false) SignInVo signInVo){     boolean isExist= redisTemplate.hasKey(signInKey);     if(isExist) redisTemplate.opsForHash().delete(signInKey);     redisTemplate.opsForHash().put(signInKey,"signNow",signInVo.getSignNow());     redisTemplate.opsForHash().put(signInKey,"signNext",signInVo.getSinNext());     redisTemplate.opsForHash().put(signInKey,"signNumber",signInVo.getSinNumber());     String [] strr=signInKey.split("-");     Long id=Long.parseLong(strr[1]);     User user=userService.getById(id);     user.setIntegral(user.getIntegral()+signInVo.getSinNumber());     userService.updateById(user);     return  new Result<>(HttpStatus.OK.value(),"success",""); }  ](I:\桌面\README.assets\clip_image052.gif)
+```java
+@PostMapping("/updateSignInToRedis")
+@Transactional//事务
+public Result<Object> updateSignInToRedis(@RequestParam(value = "signInKey",required = false) String signInKey, @RequestParam(value = "signInVo",required = false) SignInVo signInVo){
+    boolean isExist= redisTemplate.hasKey(signInKey);
+    if(isExist) redisTemplate.opsForHash().delete(signInKey);
+    redisTemplate.opsForHash().put(signInKey,"signNow",signInVo.getSignNow());
+    redisTemplate.opsForHash().put(signInKey,"signNext",signInVo.getSinNext());
+    redisTemplate.opsForHash().put(signInKey,"signNumber",signInVo.getSinNumber());
+    String [] strr=signInKey.split("-");
+    Long id=Long.parseLong(strr[1]);
+    User user=userService.getById(id);
+    user.setIntegral(user.getIntegral()+signInVo.getSinNumber());
+    userService.updateById(user);
+    return  new Result<>(HttpStatus.OK.value(),"success","");
+}
+```
+
 
 使用Redis数据库实现签到功能，使数据的读写速度得到很大的提升，签到的算法逻辑描述如下：
 
@@ -760,14 +843,54 @@ else if 今天==签到日期，说明：今天已经签到
 
 ### 4.1.6 微信登录功能实现
 
-![img](I:\桌面\README.assets\clip_image054.jpg)
 ![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/clip_image054.jpg)
 
 图24 登录界面图
 
-![文本框: @Override public Result<Object> login(UniDetail wx) {     if (!checkToken(wx.getCode()))         return new Result<>(HttpStatus.INTERNAL_SERVER_ERROR.value(), "success", null);      String code = String.valueOf(redisTemplate.opsForValue().get(wx.getCode()));     UniOpenData openData = JSONUtil.toBean(code, UniOpenData.class);      String userInfo = this.getUserInfo(wx, openData.getSession_key());     UniUserDto userDto = JSONUtil.toBean(userInfo, UniUserDto.class);      User user = userService.getOne(new QueryWrapper<User>().lambda().eq(User::getOpenId, openData.getOpenid()));     if (ObjectUtil.isNull(user)) {         System.out.println("用户第一次使用存储用户数据");         userService.save(new User()                 .setOpenId(openData.getOpenid())                 .setType(UserType.WECHAT_APPLET.getKey())                 .setAvatarUrl(userDto.getAvatarUrl())                 .setGender(userDto.getGender())                 .setName(userDto.getNickName())                 .setAddress(userDto.getCountry() + userDto.getProvince() + userDto.getCity())                 .setCreateTime(new Timestamp(System.currentTimeMillis()))                 .setLastLoginTime(new Timestamp(System.currentTimeMillis())));     } else {         //否则更新         userService.update(new User()  ](I:\桌面\README.assets\clip_image055.gif)
+```java
+@Override
+public Result<Object> login(UniDetail wx) {
+    if (!checkToken(wx.getCode()))
+        return new Result<>(HttpStatus.INTERNAL_SERVER_ERROR.value(), "success", null); 
+    String code = String.valueOf(redisTemplate.opsForValue().get(wx.getCode()));
+    UniOpenData openData = JSONUtil.toBean(code, UniOpenData.class); 
+    String userInfo = this.getUserInfo(wx, openData.getSession_key());
+    UniUserDto userDto = JSONUtil.toBean(userInfo, UniUserDto.class); 
+    User user = userService.getOne(new QueryWrapper<User>().lambda().eq(User::getOpenId, openData.getOpenid()));
+    if (ObjectUtil.isNull(user)) {
+        System.out.println("用户第一次使用存储用户数据");
+        userService.save(new User()
+                .setOpenId(openData.getOpenid())
+                .setType(UserType.WECHAT_APPLET.getKey())
+                .setAvatarUrl(userDto.getAvatarUrl())
+                .setGender(userDto.getGender())
+                .setName(userDto.getNickName())
+                .setAddress(userDto.getCountry() + userDto.getProvince() + userDto.getCity())
+                .setCreateTime(new Timestamp(System.currentTimeMillis()))
+                .setLastLoginTime(new Timestamp(System.currentTimeMillis())));
+    } else {
+        //否则更新
+        userService.update(new User()
+.setAvatarUrl(userDto.getAvatarUrl())
+                        .setGender(userDto.getGender())
+                        .setName(userDto.getNickName())
+                        .setLastLoginTime(new Timestamp(System.currentTimeMillis()))
+                        .setAddress(userDto.getCountry() + userDto.getProvince() + userDto.getCity()), new UpdateWrapper<User>().lambda().eq(User::getOpenId, user.getOpenId()));
+    }
+    //生成token
+    String token = genToken(openData.getOpenid());
+    //获取User对象，用于获取userId
+    User user1= userService.getOne(new QueryWrapper<User>().lambda().eq(User::getOpenId,openData.getOpenid()));
+    UniUserVo userVo = new UniUserVo();
+    BeanUtils.copyProperties(user1, userVo);
+    userVo.setNickName(user1.getName());
+    userVo.setToken(token);
+    userVo.setUserId(user1.getId());
+    log.info("用户登录:用户openId:{},token:{}", user.getOpenId(), token);
+    return new Result<>(HttpStatus.OK.value(), "success", userVo);
+}
 
-![文本框: .setAvatarUrl(userDto.getAvatarUrl())                         .setGender(userDto.getGender())                         .setName(userDto.getNickName())                         .setLastLoginTime(new Timestamp(System.currentTimeMillis()))                         .setAddress(userDto.getCountry() + userDto.getProvince() + userDto.getCity()), new UpdateWrapper<User>().lambda().eq(User::getOpenId, user.getOpenId()));     }     //生成token     String token = genToken(openData.getOpenid());     //获取User对象，用于获取userId     User user1= userService.getOne(new QueryWrapper<User>().lambda().eq(User::getOpenId,openData.getOpenid()));     UniUserVo userVo = new UniUserVo();     BeanUtils.copyProperties(user1, userVo);     userVo.setNickName(user1.getName());     userVo.setToken(token);     userVo.setUserId(user1.getId());     log.info("用户登录:用户openId:{},token:{}", user.getOpenId(), token);     return new Result<>(HttpStatus.OK.value(), "success", userVo); }  ](I:\桌面\README.assets\clip_image056.gif)
+```
 
 微信小程序可以直接调用微信登录API进行登录，uni.getUserProfile()用于获取用户的基本信息，包括头像、昵称、所在地等信息，uni.login()用于获取登录凭证（code），进而换取用户在当前小程序的唯一标识（openid），再通过JWT生成token，存储到小程序缓存和MySQL数据库中[12]。
 
@@ -775,7 +898,6 @@ else if 今天==签到日期，说明：今天已经签到
 
 本系统部署图如图25所示。
 
-![img](I:\桌面\README.assets\clip_image058.gif)
 ![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/clip_image058.gif)
 
 图25部署图
