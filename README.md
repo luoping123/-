@@ -35,6 +35,7 @@
 小程序实机截图：
 
 ![image-20240919142905061](.\README.assets\image-20240919142905061.png)
+![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/clip_image004.jpg)
 
 ![image-20240919142933795](I:\桌面\README.assets\image-20240919142933795.png)
 
