@@ -393,6 +393,8 @@ swiper替换算法：
 其具体流程图如图1所示。
 
 ![img](I:\桌面\README.assets\clip_image002.gif)
+![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/clip_image002.gif)
+
 
 图1预约服务和购买商品流程图
 
@@ -407,6 +409,8 @@ swiper替换算法：
  
 
 ![img](I:\桌面\README.assets\clip_image004.jpg)
+![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/clip_image004.jpg)
+
 
 图2 系统数据流图
 
@@ -437,6 +441,8 @@ CMS后台内容管理系统开发：HTML、CSS、JavaScript、Vue框架、RuoYi�
 系统角色主要划分为美业商家和美业客户，美业商家使用PC端的Web网页CMS内容管理系统，美业客户使用微信小程序。系统主要包括美容预约、会员管理、商品销售、健康讲座四大功能模块。系统用例图如图3所示。
 
 ![img](I:\桌面\README.assets\clip_image006.jpg)
+![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/clip_image006.jpg)
+
 
 图3 系统用例图
 
@@ -451,6 +457,8 @@ CMS后台内容管理系统开发：HTML、CSS、JavaScript、Vue框架、RuoYi�
 系统功能模块如图4所示。
 
 ![img](I:\桌面\README.assets\clip_image008.gif)
+![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/clip_image008.gif)
+
 
 图4 系统功能模块图
 
@@ -464,6 +472,8 @@ CMS后台内容管理系统开发：HTML、CSS、JavaScript、Vue框架、RuoYi�
 本系统研究的是基于微信小程序的美业智慧平台，美业客户的微信小程序实现服务预约、商品销售、健康讲座和会员管理的功能，采用Spring Boot框架构建后台，用IDEA作为开发工具，使用腾讯云服务器，Restful风格编写后台接口，在服务器上部署，微信小程序调用后台API接口进行数据交互。美业商家的CMS后台管理系统，采用Vue、Element UI、RuoYi和Spring Boot开发。系统架构图如图5所示。
 
 ![img](I:\桌面\README.assets\clip_image010.gif)
+![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/clip_image010.gif)
+
 
 图5 系统架构图
 
@@ -476,14 +486,20 @@ CMS后台内容管理系统开发：HTML、CSS、JavaScript、Vue框架、RuoYi�
 数据库E-R图如图6-图8所示。
 
 ![img](I:\桌面\README.assets\clip_image012.gif)
+![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/clip_image012.gif)
+
 
 图 6 商品模块E-R图
 
 ![img](I:\桌面\README.assets\clip_image014.gif)
+![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/clip_image014.gif)
+
 
 图7 服务项目模块E-R图
 
 ![img](I:\桌面\README.assets\clip_image016.gif)
+![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/clip_image016.gif)
+
 
 图8 页面内容E-R图
 
@@ -504,6 +520,8 @@ CMS后台内容管理系统开发：HTML、CSS、JavaScript、Vue框架、RuoYi�
  
 
 ![img](I:\桌面\README.assets\clip_image018.jpg)
+![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/clip_image018.jpg)
+
 
 图9 数据库模型图（1）
 
@@ -524,6 +542,8 @@ CMS后台内容管理系统开发：HTML、CSS、JavaScript、Vue框架、RuoYi�
 （12）客户信息表user，以id为主键，包含微信登录openId、姓名、性别、年龄、用户类型、地址、头像、电话、账号、密码、会员卡id、余额、积分、优惠券id、创建时间和最后登录时间。
 
 ![img](I:\桌面\README.assets\clip_image020.jpg)
+![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/clip_image020.jpg)
+
 
 图10 数据库模型图（2）
 
@@ -554,6 +574,8 @@ CMS后台内容管理系统开发：HTML、CSS、JavaScript、Vue框架、RuoYi�
  
 
 ![img](I:\桌面\README.assets\clip_image022.gif)
+![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/clip_image022.gif)
+
 
 图11 微信登录时序图
 
@@ -564,12 +586,16 @@ CMS后台内容管理系统开发：HTML、CSS、JavaScript、Vue框架、RuoYi�
 预约服务时序图如图12所示。
 
 ![img](I:\桌面\README.assets\clip_image024.gif)
+![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/clip_image024.gif)
+
 
 图12 预约服务时序图
 
 （3）购买商品核心功能设计，美业客户通过点击首页导航按钮，进入到商品分类检索页面，可以按类别检索某类商品，也可以通过顶部搜索栏进行关键字查询商品，搜索栏设有搜索历史，可通过搜索点击搜索历史进行搜索。在检索到商品后，客户点击立即购买按钮，进入商品详情页面，根据传过来的商品id，请求Spring Boot后端接口，获取该id的商品信息，并显示[9]。客户可选择加入购物车或立即购买，点击立即购买后，选择商品属性和购买数量后，跳转到订单支付页面，进行订单支付，时序图如图13所示。
 
 ![img](I:\桌面\README.assets\clip_image026.gif)
+![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/clip_image026.gif)
+
 
 图13 购买商品时序图
 
@@ -578,12 +604,16 @@ CMS后台内容管理系统开发：HTML、CSS、JavaScript、Vue框架、RuoYi�
 本系统采用Spring Boot框架和MyBatis-Plus进行后端接口开发，MyBatis-Plus提供强大的功能封装接口和类，让数据增删改查接口编写变得非常便捷，只需要继承或实现MyBatis-Plus提供的接口和类即可[10]。采用Lombok提供的@Data注解使实体类开发省去繁琐的get和set方法编写。本文以服务项目为例，简要概述后端接口类继承模式，其类图如图14所示。
 
 ![img](I:\桌面\README.assets\clip_image028.gif)
+![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/clip_image028.gif)
+
 
 图14 SpringBoot后端类图
 
 购买商品订单状态会根据客户和商家的不同操作，进行相应的变化，状态图如图15所示。
 
 ![img](I:\桌面\README.assets\clip_image030.gif)
+![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/clip_image030.gif)
+
 
 图15 商品订单状态图
 
@@ -606,7 +636,9 @@ CMS后台内容管理系统开发：HTML、CSS、JavaScript、Vue框架、RuoYi�
 
 根据系统设计，uni-app前端项目结构和Spring Boot后端项目结构，如图16和图17所示。
 
-![img](I:\桌面\README.assets\clip_image032.jpg)     ![img](I:\桌面\README.assets\clip_image034.jpg)
+![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/clip_image032.jpg)
+     ![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/clip_image034.jpg)
+
 
 图16前端项目结构            图17后端项目结构
 
@@ -615,6 +647,7 @@ CMS后台内容管理系统开发：HTML、CSS、JavaScript、Vue框架、RuoYi�
 首页界面如图18所示。
 
 ![img](I:\桌面\README.assets\clip_image036.gif)
+![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/clip_image036.gif)
 
 图18 首页界面图
 
@@ -629,6 +662,7 @@ CMS后台内容管理系统开发：HTML、CSS、JavaScript、Vue框架、RuoYi�
 预约功能模块，微信小程序界面如图19所示。
 
 ![img](I:\桌面\README.assets\clip_image039.gif)
+![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/clip_image039.gif)
 
 图19 预约实现界面
 
@@ -672,7 +706,7 @@ swiper替换算法：
 
 视频浏览界面如图20和图21所示。
 
-![img](I:\桌面\README.assets\clip_image042.jpg)   ![img](I:\桌面\README.assets\clip_image044.jpg)
+![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/clip_image042.jpg)  ![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/clip_image044.jpg)
 
 图20 视频界面（1）           图21视频界面（2）
 
@@ -695,6 +729,7 @@ Spring Boot后端接口核心代码：
 商品销售功能前端核心页面如图22所示。
 
 ![img](I:\桌面\README.assets\clip_image048.jpg)
+![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/clip_image048.jpg)
 
 图22 商品销售核心页面
 
@@ -709,6 +744,7 @@ Spring Boot有事务注解@Transactional，利用该注解，可以实现订单�
 会员卡功能前端核心界面如图23所示。
 
 ![img](I:\桌面\README.assets\clip_image051.jpg)
+![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/clip_image051.jpg)
 
 图23 会员核心界面
 
@@ -725,6 +761,7 @@ else if 今天==签到日期，说明：今天已经签到
 ### 4.1.6 微信登录功能实现
 
 ![img](I:\桌面\README.assets\clip_image054.jpg)
+![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/clip_image054.jpg)
 
 图24 登录界面图
 
@@ -739,6 +776,7 @@ else if 今天==签到日期，说明：今天已经签到
 本系统部署图如图25所示。
 
 ![img](I:\桌面\README.assets\clip_image058.gif)
+![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/clip_image058.gif)
 
 图25部署图
 
