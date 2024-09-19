@@ -34,33 +34,33 @@
 
 小程序实机截图：
 
-![image-20240919142905061](C:\Users\15811\AppData\Roaming\Typora\typora-user-images\image-20240919142905061.png)
+![image-20240919142905061](I:\桌面\README.assets\image-20240919142905061.png)
 
-![image-20240919142933795](C:\Users\15811\AppData\Roaming\Typora\typora-user-images\image-20240919142933795.png)
+![image-20240919142933795](I:\桌面\README.assets\image-20240919142933795.png)
 
-![image-20240919142952646](C:\Users\15811\AppData\Roaming\Typora\typora-user-images\image-20240919142952646.png)
+![image-20240919142952646](I:\桌面\README.assets\image-20240919142952646.png)
 
-![image-20240919143010214](C:\Users\15811\AppData\Roaming\Typora\typora-user-images\image-20240919143010214.png)
+![image-20240919143010214](I:\桌面\README.assets\image-20240919143010214.png)
 
 首页下滑展示预约项目分类，设计实现了**懒加载**对每个分类进行独立的下滑加载更多项目，提高页面的加载速度和性能。
 
-![image-20240919143522772](C:\Users\15811\AppData\Roaming\Typora\typora-user-images\image-20240919143522772.png)
+![image-20240919143522772](I:\桌面\README.assets\image-20240919143522772.png)
 
-![image-20240919143610115](C:\Users\15811\AppData\Roaming\Typora\typora-user-images\image-20240919143610115.png)
+![image-20240919143610115](I:\桌面\README.assets\image-20240919143610115.png)
 
 接入微信小程序官方客服API，点击直接连接微信客服对话，可以发送图片等消息。
 
-![image-20240919154635204](C:\Users\15811\AppData\Roaming\Typora\typora-user-images\image-20240919154635204.png)
+![image-20240919154635204](I:\桌面\README.assets\image-20240919154635204.png)
 
 选择预约时间段，选择美容师提交订单进行预约
 
-![image-20240919143859421](C:\Users\15811\AppData\Roaming\Typora\typora-user-images\image-20240919143859421.png)
+![image-20240919143859421](I:\桌面\README.assets\image-20240919143859421.png)
 
 支付预约订单
 
-![image-20240919143924526](C:\Users\15811\AppData\Roaming\Typora\typora-user-images\image-20240919143924526.png)
+![image-20240919143924526](I:\桌面\README.assets\image-20240919143924526.png)
 
-![image-20240919143933145](C:\Users\15811\AppData\Roaming\Typora\typora-user-images\image-20240919143933145.png)
+![image-20240919143933145](I:\桌面\README.assets\image-20240919143933145.png)
 
 系统生成二维码券码，用于商家核验。
 
@@ -151,6 +151,7 @@ swiper替换算法：
 一键登录
 
 #### 软件架构
+
 本系统研究的是基于微信小程序的美业智慧平台，美业客户的微信小程序实现服务预约、商品销售、健康讲座和会员管理的功能，采用Spring Boot框架构建后台，用IDEA作为开发工具，使用腾讯云服务器，Restful风格编写后台接口，在服务器上部署，微信小程序调用后台API接口进行数据交互。美业商家的CMS后台管理系统，采用Vue、Element UI、RuoYi和Spring Boot开发。系统架构如图所示。
 
 ![img](I:\桌面\README.assets\clip_image010.gif)
