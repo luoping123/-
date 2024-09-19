@@ -34,7 +34,7 @@
 
 小程序实机截图：
 
-![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/image-20240919142905061.png)
+![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/image-20240919200203942.png)
 
 ![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/image-20240919142933795.png)
 
