@@ -34,7 +34,7 @@
 
 小程序实机截图：
 
-![image-20240919142905061](I:\桌面\README.assets\image-20240919142905061.png)
+![image-20240919142905061](.\README.assets\image-20240919142905061.png)
 
 ![image-20240919142933795](I:\桌面\README.assets\image-20240919142933795.png)
 
