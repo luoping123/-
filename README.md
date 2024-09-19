@@ -35,75 +35,96 @@
 小程序实机截图：
 
 ![image-20240919142905061](.\README.assets\image-20240919142905061.png)
-![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/clip_image004.jpg)
+![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/image-20240919142905061.png)
 
 ![image-20240919142933795](I:\桌面\README.assets\image-20240919142933795.png)
+![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/image-20240919142933795.png)
 
 ![image-20240919142952646](I:\桌面\README.assets\image-20240919142952646.png)
+![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/image-20240919142952646.png)
 
 ![image-20240919143010214](I:\桌面\README.assets\image-20240919143010214.png)
+![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/image-20240919143010214.png)
 
 首页下滑展示预约项目分类，设计实现了**懒加载**对每个分类进行独立的下滑加载更多项目，提高页面的加载速度和性能。
 
 ![image-20240919143522772](I:\桌面\README.assets\image-20240919143522772.png)
+![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/image-20240919143522772.png)
 
 ![image-20240919143610115](I:\桌面\README.assets\image-20240919143610115.png)
+![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/image-20240919143610115.png)
 
 接入微信小程序官方客服API，点击直接连接微信客服对话，可以发送图片等消息。
 
 ![image-20240919154635204](I:\桌面\README.assets\image-20240919154635204.png)
+![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/image-20240919154635204.png)
 
 选择预约时间段，选择美容师提交订单进行预约
 
 ![image-20240919143859421](I:\桌面\README.assets\image-20240919143859421.png)
+![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/image-20240919143859421.png)
 
 支付预约订单
 
 ![image-20240919143924526](I:\桌面\README.assets\image-20240919143924526.png)
+![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/image-20240919143924526.png)
 
-![image-20240919143933145](I:\桌面\README.assets\image-20240919143933145.png)
+![image-20240919143933145](I:\桌面\README.assets\image-20240919143924526.png)
+![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/image-20240919143924526.png)
 
 系统生成二维码券码，用于商家核验。
 
 ![image-20240919154811100](I:\桌面\README.assets\image-20240919154811100.png)
+![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/image-20240919154811100.png)
 
 商品购买
 
 ![image-20240919154837377](I:\桌面\README.assets\image-20240919154837377.png)
+![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/image-20240919154837377.png)
 
 支持搜索商品，保存搜索历史，且历史可以单独和全部删除
 
 ![image-20240919154925076](I:\桌面\README.assets\image-20240919154925076.png)
+![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/image-20240919154925076.png)
 
 商品详情页
 
 ![image-20240919155036199](I:\桌面\README.assets\image-20240919155036199.png)
+![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/image-20240919155036199.png)
 
 购物车页面
 
 ![image-20240919161850452](I:\桌面\README.assets\image-20240919161850452.png)
+![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/image-20240919161850452.png)
 
 提交订单页面
 
 ![image-20240919161908217](I:\桌面\README.assets\image-20240919161908217.png)
+![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/image-20240919161908217.png)
 
 支付，使用Redis缓存订单支付剩余时间
 
 ![image-20240919161946020](I:\桌面\README.assets\image-20240919161946020.png)
+![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/image-20240919161946020.png)
 
 支付成功之后动态推荐其他商品，这里是根据商品价格推荐的
 
 ![image-20240919162055002](I:\桌面\README.assets\image-20240919162055002.png)
+![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/image-20240919162055002.png)
 
 ![image-20240919162110628](I:\桌面\README.assets\image-20240919162110628.png)
+![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/image-20240919162110628.png)
 
 ![image-20240919162232829](I:\桌面\README.assets\image-20240919162232829.png)
+![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/image-20240919162232829.png)
 
 快递物流信息查看
 
 ![image-20240919163200395](I:\桌面\README.assets\image-20240919163200395.png)
+![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/image-20240919163200395.png)
 
 ![image-20240919163222035](I:\桌面\README.assets\image-20240919163222035.png)
+![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/image-20240919163222035.png)
 
 视频浏览-swiper替换算法：
 
@@ -140,14 +161,17 @@ swiper替换算法：
 阻止swiper在首次加载的时候向上滑，导致滑动到下标为3的swiepr-item上。
 
 ![image-20240919163324816](I:\桌面\README.assets\image-20240919163324816.png)
+![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/image-20240919163324816.png)
 
 会员充值
 
 ![image-20240919163339334](I:\桌面\README.assets\image-20240919163339334.png)
+![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/image-20240919163339334.png)
 
 签到积分
 
 ![image-20240919163412548](I:\桌面\README.assets\image-20240919163412548.png)
+![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/image-20240919163412548.png)
 
 一键登录
 
@@ -156,6 +180,7 @@ swiper替换算法：
 本系统研究的是基于微信小程序的美业智慧平台，美业客户的微信小程序实现服务预约、商品销售、健康讲座和会员管理的功能，采用Spring Boot框架构建后台，用IDEA作为开发工具，使用腾讯云服务器，Restful风格编写后台接口，在服务器上部署，微信小程序调用后台API接口进行数据交互。美业商家的CMS后台管理系统，采用Vue、Element UI、RuoYi和Spring Boot开发。系统架构如图所示。
 
 ![img](I:\桌面\README.assets\clip_image010.gif)
+![Image text](https://github.com/luoping123/Uni-MeiYe/blob/main/README.assets/clip_image010.gif)
 
 
 
